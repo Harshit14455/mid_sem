@@ -1,1 +1,2 @@
 prepare project report
+review project documentation
